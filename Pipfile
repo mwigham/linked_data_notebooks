@@ -8,6 +8,9 @@ matplotlib = "*"
 chart-studio = "*"
 nbformat = "*"
 wordcloud = "*"
+ipywidgets = "*"
+ipyleaflet = "*"
+pandas = "*"
 
 [dev-packages]
 
