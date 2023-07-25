@@ -1,101 +1,384 @@
 ,Identifiers,Location,Longitude,Latitude
-0,http://www.wikidata.org/entity/Q849957,Concertgebouw,4.879.083.333,52.356.305.555
-1,http://www.wikidata.org/entity/Q2429975,Muziekcentrum Vredenburg,511.333,5.209.222
-2,http://www.wikidata.org/entity/Q17599865,VARA,516.385,5.223.258
-3,http://www.wikidata.org/entity/Q2237396,De Doelen,4.473.056,51.921.667
-4,http://www.wikidata.org/entity/Q17463960,NCRV-studio,5.157.083.333,52.225.361.111
-5,http://www.wikidata.org/entity/Q116870434,,4.282.188.888,52.092.919.444
-6,http://www.wikidata.org/entity/Q1535378,Paradiso,4.883.872,52.362.144
-7,http://www.wikidata.org/entity/Q111724001,Muziekpaviljoen,5.172.313.888,52.234.647.222
-8,http://www.wikidata.org/entity/Q17463961,KRO-studio,518.033,5.221.992
-9,http://www.wikidata.org/entity/Q2637994,Muziekgebouw aan 't IJ,491.306,5.237.833
-10,http://www.wikidata.org/entity/Q2317981,De Oosterpoort,6.576.331,53.213.853
-11,http://www.wikidata.org/entity/Q16901749,TivoliVredenburg,511.333,520.922
-12,http://www.wikidata.org/entity/Q2373842,Megaland,6.024.167,50.881.667
-13,http://www.wikidata.org/entity/Q17292034,De Ysbreeker,4.906.602.777,523.574
-14,http://www.wikidata.org/entity/Q2625477,Muziekcentrum van de Omroep,5.163.961,52.232.553
-15,http://www.wikidata.org/entity/Q7476228,Geertekerk,5.120.556,52.084.444
-16,http://www.wikidata.org/entity/Q2312076,Philharmonie Haarlem,463.917,5.238.111
-17,http://www.wikidata.org/entity/Q1545193,Grote of Sint-Bavokerk,4.636.388.888,52.380.833.333
-18,http://www.wikidata.org/entity/Q1796182,Koninklijk Instituut voor de Tropen,4.920.727,52.362.603
-19,http://www.wikidata.org/entity/Q119573677,Studio BFO,,
-20,http://www.wikidata.org/entity/Q3344993,Tropentheater,4.922.752,52.362.595
-21,http://www.wikidata.org/entity/Q2410708,Waalse Kerk,489.711,5.237.109
-22,http://www.wikidata.org/entity/Q179426,Rotterdam Ahoy,4.488.056,51.882.778
-23,http://www.wikidata.org/entity/Q2094317,Pieterskerk,5.124.444,52.091.389
-24,http://www.wikidata.org/entity/Q1535365,Kurhaus,4.281.667,52.113.333
-25,http://www.wikidata.org/entity/Q595668,Tilburg University,5.041.944.444,51.562.777.777
-26,http://www.wikidata.org/entity/Q2485832,Dr. Anton Philipszaal,4.317.777,52.077.142
-27,http://www.wikidata.org/entity/Q1999694,Leijpark,,
-28,http://www.wikidata.org/entity/Q3132,Moers,6.619.722.222,51.459.166.666
-29,http://www.wikidata.org/entity/Q1325514,Het Muziektheater,4.901.335,52.367.516
-30,http://www.wikidata.org/entity/Q1815556,Nieuwe Kerk,431.566,5.207.631
-31,http://www.wikidata.org/entity/Q851200,Beurs van Berlage,4.896.388.888,52.375
-32,http://www.wikidata.org/entity/Q936545,Domkerk,5.121.393,52.090.657
-33,http://www.wikidata.org/entity/Q21707604,Koepelkerk,4.880.272.222,52.362.466.666
-34,http://www.wikidata.org/entity/Q2372424,Nicolaïkerk,5.125.278,52.083.056
-35,http://www.wikidata.org/entity/Q2851347,Circustheater,42.825,52.110.833
-36,http://www.wikidata.org/entity/Q1878995,Jacobikerk,5.115.278,52.095
-37,http://www.wikidata.org/entity/Q2350612,Tivolicomplex,51.216,5.208.725
-38,http://www.wikidata.org/entity/Q2433308,Stadsschouwburg Nijmegen,5.858.042,51.842.758
-39,http://www.wikidata.org/entity/Q2727648,Leeuwenbergh Gasthuis,512.759,5.208.784
-40,http://www.wikidata.org/entity/Q60481,Melkweg,4.881.336,52.364.778
-41,http://www.wikidata.org/entity/Q18813531,Schouwburg,508.314,5.155.422
-42,http://www.wikidata.org/entity/Q1892887,Oude Kerk,4.272.781,52.106.839
-43,http://www.wikidata.org/entity/Q119567451,,,
-44,http://www.wikidata.org/entity/Q2438208,Westzijderkerk,4.818.833.333,52.444.555.555
-45,http://www.wikidata.org/entity/Q119569306,,,
-46,http://www.wikidata.org/entity/Q1263843,Sint-Janskerk,56.875,50.848.333
-47,http://www.wikidata.org/entity/Q38554776,Wilminktheater en Muziekcentrum Enschede,689.555,52.222.389
-48,http://www.wikidata.org/entity/Q1817103,Stadsschouwburg Amsterdam,4.882,52.364.194.444
-49,http://www.wikidata.org/entity/Q2328646,Rodahal,6.062.513,50.867.882
-50,http://www.wikidata.org/entity/Q2803318,Theater Kerkrade,6.062.408,50.866.111
-51,http://www.wikidata.org/entity/Q1954473,Desmet Studio's Amsterdam,4.909.778,52.366.975
-52,http://www.wikidata.org/entity/Q2058912,Stadsgehoorzaal Leiden,448.889,5.215.972
-53,http://www.wikidata.org/entity/Q2906260,Engelse Hervormde Kerk,4.89,52.369.167
-54,http://www.wikidata.org/entity/Q2462307,Sint-Vituskerk,5.179.167,52.221.944
-55,http://www.wikidata.org/entity/Q1919911,Groote Kerk,4.251.092,5.192.216
-56,http://www.wikidata.org/entity/Q908127,Basiliek van Onze-Lieve-Vrouw-Tenhemelopneming,569.344,5.084.762
-57,http://www.wikidata.org/entity/Q119572423,,,
-58,http://www.wikidata.org/entity/Q475349,Muziekgebouw Frits Philips Eindhoven,5.479.722,51.438.611
-59,http://www.wikidata.org/entity/Q2191429,RASA,511.778,5.209.444
-60,http://www.wikidata.org/entity/Q1932964,De Harmonie,578.972,5.319.972
-61,http://www.wikidata.org/entity/Q639909,Grote of Sint-Laurenskerk,474.388.889,526.325
-62,http://www.wikidata.org/entity/Q16760808,Lutherse kerk,5.691.436,50.847.278
-63,http://www.wikidata.org/entity/Q9871,Tilburg,50.911,515.572
-64,http://www.wikidata.org/entity/Q1130722,Westerkerk,48.839,523.745
-65,http://www.wikidata.org/entity/Q478190,Amstelkerk,4.896.583.333,52.362.277.777
-66,http://www.wikidata.org/entity/Q7958574,Waalse Kerk,463.917,523.822
-67,http://www.wikidata.org/entity/Q2259973,Sint-Joriskerk,5.390.278,52.156.667
-68,http://www.wikidata.org/entity/Q2319846,13,509.305.556,5.155.861.111
-69,http://www.wikidata.org/entity/Q1378652,Sint-Eusebiuskerk,5.91,51.978.889
-70,http://www.wikidata.org/entity/Q2179346,Martinikerk,5.526.389,53.064.514
-71,http://www.wikidata.org/entity/Q2024749,Grote of Onze-Lieve-Vrouwekerk,4.66,51.814.167
-72,http://www.wikidata.org/entity/Q2360526,Sint-Lambertuskerk,5.656.111,51.478.333
-73,http://www.wikidata.org/entity/Q17415889,Nederlands Hervormde Kerk,502.309,5.220.913
-74,http://www.wikidata.org/entity/Q456130,Grote of Sint-Jacobskerk,4.306.962,52.077.436
-75,http://www.wikidata.org/entity/Q7476534,Lutherse Kerk,5.122.222,52.088.333
-76,http://www.wikidata.org/entity/Q2522863,Lutherse kerk,4.309.717,52.075.047
-77,http://www.wikidata.org/entity/Q17441209,Oude Kerk,531.219,5.217.354
-78,http://www.wikidata.org/entity/Q1419675,Nieuwe Kerk,4.891.944,52.373.889
-79,http://www.wikidata.org/entity/Q848290,Sint-Janskerk,4.711.389,52.010.833
-80,http://www.wikidata.org/entity/Q1766591,Singelkerk,488.832,5.236.745
-81,http://www.wikidata.org/entity/Q594456,Oostkerk,362.056,5.150.278
-82,http://www.wikidata.org/entity/Q60221269,Twentse Schouwburg,689.517,5.221.959
-83,http://www.wikidata.org/entity/Q1774864,Kloosterkerk,4.309.444,52.081.667
-84,http://www.wikidata.org/entity/Q118397988,Singer Laren,522.222,5.225.944
-85,http://www.wikidata.org/entity/Q2275186,Nieuwe Kerk,462.972.222,5.237.722.222
-86,http://www.wikidata.org/entity/Q2315000,Bovenkerk,5.920.278,52.555
-87,http://www.wikidata.org/entity/Q253935,Sint-Servaasbasiliek,56.872,50.848.817
-88,http://www.wikidata.org/entity/Q17379482,Nederlands Hervormde Kerk,508.974,5.222.832
-89,http://www.wikidata.org/entity/Q2675099,Posthoornkerk,4.890.278,52.381.111
-90,http://www.wikidata.org/entity/Q3368242,Domtoren,512.141,5.209.061
-91,http://www.wikidata.org/entity/Q1689911,Sint-Walburgiskerk,61.957,52.139.586
-92,http://www.wikidata.org/entity/Q1896136,Grote of Maria Magdalenakerk,3.890.278,51.503.056
-93,http://www.wikidata.org/entity/Q612065,Oude Kerk,4.355.278,520.125
-94,http://www.wikidata.org/entity/Q1905634,Martinikerk,65.688,532.195.086
-95,http://www.wikidata.org/entity/Q2301723,Sint-Martinuskerk,5.698.056,50.850.556
-96,http://www.wikidata.org/entity/Q43722503,Maranathakerk,5.054.883.333,51.561.508.333
-97,http://www.wikidata.org/entity/Q1242547,Doopsgezinde Kerk,5.122.222,52.086.944
-98,http://www.wikidata.org/entity/Q1867033,Koningskerk,493.612,523.484
-99,http://www.wikidata.org/entity/Q2183522,Concertgebouw de Vereeniging,586.083.333,5.184.138.889
+0,http://www.wikidata.org/entity/Q849957,Concertgebouw,4.879083333,52.356305555
+1,http://www.wikidata.org/entity/Q2429975,Geertekerk,5.120556,52.084444
+2,http://www.wikidata.org/entity/Q17599865,Sint-Joriskerk,5.390278,52.156667
+3,http://www.wikidata.org/entity/Q2237396,Kurhaus,4.281667,52.113333
+4,http://www.wikidata.org/entity/Q17463960,Tivolicomplex,5.1216,52.08725
+5,http://www.wikidata.org/entity/Q116870434,VARA,5.16385,52.23258
+6,http://www.wikidata.org/entity/Q1535378,Paradiso,4.883872,52.362144
+7,http://www.wikidata.org/entity/Q111724001,De Doelen,4.473056,51.921667
+8,http://www.wikidata.org/entity/Q17463961,Koningskerk,4.93612,52.3484
+9,http://www.wikidata.org/entity/Q2637994,Thomaskerk,4.87472,52.3422
+10,http://www.wikidata.org/entity/Q2317981,KRO-studio,5.18033,52.21992
+11,http://www.wikidata.org/entity/Q16901749,Martinikerk,5.526389,53.064514
+12,http://www.wikidata.org/entity/Q2373842,Grote of Sint-Bavokerk,4.636388888,52.380833333
+13,http://www.wikidata.org/entity/Q17292034,Twentse Schouwburg,6.89517,52.21959
+14,http://www.wikidata.org/entity/Q2625477,Oude Kerk,5.31219,52.17354
+15,http://www.wikidata.org/entity/Q7476228,Grote of Onze-Lieve-Vrouwekerk,4.66,51.814167
+16,http://www.wikidata.org/entity/Q2312076,Waalse Kerk,4.63917,52.3822
+17,http://www.wikidata.org/entity/Q1545193,Nicolaïkerk,5.125278,52.083056
+18,http://www.wikidata.org/entity/Q1796182,Groote Kerk,4.251092,51.92216
+19,http://www.wikidata.org/entity/Q119573677,Sint Catharinakerk,6.288603,51.965506
+20,http://www.wikidata.org/entity/Q3344993,Grote Kerk,5.955308,52.220439
+21,http://www.wikidata.org/entity/Q2410708,Philharmonie Haarlem,4.63917,52.38111
+22,http://www.wikidata.org/entity/Q179426,Muziekcentrum van de Omroep,5.163961,52.232553
+23,http://www.wikidata.org/entity/Q2094317,Concertgebouw Hengelo,6.79527,52.26275
+24,http://www.wikidata.org/entity/Q1535365,Circustheater,4.2825,52.110833
+25,http://www.wikidata.org/entity/Q595668,Grote of Sint-Nicolaaskerk,5.0475,52.515278
+26,http://www.wikidata.org/entity/Q2485832,NCRV-studio,5.157083333,52.225361111
+27,http://www.wikidata.org/entity/Q1999694,Sint-Janskerk,4.45683,51.53336
+28,http://www.wikidata.org/entity/Q3132,Sint-Vituskerk,5.16328,52.27263
+29,http://www.wikidata.org/entity/Q1325514,Sint-Bavokerk,3.448333,51.272778
+30,http://www.wikidata.org/entity/Q1815556,Kruiskerk (Amstelveen),4.85863,52.31122
+31,http://www.wikidata.org/entity/Q851200,Oude Kerk,4.272781,52.106839
+32,http://www.wikidata.org/entity/Q936545,Zuiderkerk,5.292629,52.703614
+33,http://www.wikidata.org/entity/Q21707604,Sint-Eusebiuskerk,5.91,51.978889
+34,http://www.wikidata.org/entity/Q2372424,Stadsschouwburg Amsterdam,4.882,52.364194444
+35,http://www.wikidata.org/entity/Q2851347,Nieuwe Kerk,6.56161,53.22323
+36,http://www.wikidata.org/entity/Q1878995,Grote of Sint-Jacobskerk,4.306962,52.077436
+37,http://www.wikidata.org/entity/Q2350612,Westerkerk,4.8839,52.3745
+38,http://www.wikidata.org/entity/Q2433308,De Harmonie,6.561111111,53.219166666
+39,http://www.wikidata.org/entity/Q2727648,Sint-Janskerk,4.711389,52.010833
+40,http://www.wikidata.org/entity/Q60481,Basiliek van Onze-Lieve-Vrouw-Tenhemelopneming,5.69344,50.84762
+41,http://www.wikidata.org/entity/Q18813531,Muziekcentrum Vredenburg,5.11333,52.09222
+42,http://www.wikidata.org/entity/Q1892887,De Oosterpoort,6.576331,53.213853
+43,http://www.wikidata.org/entity/Q119567451,De Harmonie,5.78972,53.19972
+44,http://www.wikidata.org/entity/Q2438208,Congresgebouw Den Haag,4.282188888,52.092919444
+45,http://www.wikidata.org/entity/Q119569306,Waalse Kerk,4.89711,52.37109
+46,http://www.wikidata.org/entity/Q1263843,Nieuwe Kerk,4.891944,52.373889
+47,http://www.wikidata.org/entity/Q38554776,Sint-Bonifatiuskerk,4.826479,52.44145
+48,http://www.wikidata.org/entity/Q1817103,Tilburg University,5.041944444,51.562777777
+49,http://www.wikidata.org/entity/Q2328646,Megaland,6.024167,50.881667
+50,http://www.wikidata.org/entity/Q2803318,Pieterskerk,5.124444,52.091389
+51,http://www.wikidata.org/entity/Q1954473,Lutherse Kerk,5.058353,52.641464
+52,http://www.wikidata.org/entity/Q2058912,De Ysbreeker,4.906602777,52.3574
+53,http://www.wikidata.org/entity/Q2906260,Muziekpaviljoen,5.172313888,52.234647222
+54,http://www.wikidata.org/entity/Q2462307,Beurs van Berlage,4.896388888,52.375
+55,http://www.wikidata.org/entity/Q1919911,Stadsschouwburg Nijmegen,5.858042,51.842758
+56,http://www.wikidata.org/entity/Q908127,Tropentheater,4.922752,52.362595
+57,http://www.wikidata.org/entity/Q119572423,Melkweg,4.881336,52.364778
+58,http://www.wikidata.org/entity/Q475349,Sint-Bavokerk,4.613333,52.351944
+59,http://www.wikidata.org/entity/Q2191429,Nederlands Hervormde Kerk,5.07849,51.87396
+60,http://www.wikidata.org/entity/Q1932964,Domkerk,5.121393,52.090657
+61,http://www.wikidata.org/entity/Q639909,Westerkerk Amersfoort,5.37057,52.16044
+62,http://www.wikidata.org/entity/Q16760808,Nieuwe Kerk,4.31566,52.07631
+63,http://www.wikidata.org/entity/Q9871,Amstelkerk,4.896583333,52.362277777
+64,http://www.wikidata.org/entity/Q1130722,Dr. Anton Philipszaal,4.317777,52.077142
+65,http://www.wikidata.org/entity/Q478190,Koninklijk Instituut voor de Tropen,4.920727,52.362603
+66,http://www.wikidata.org/entity/Q7958574,Bovenkerk,5.920278,52.555
+67,http://www.wikidata.org/entity/Q2259973,,,
+68,http://www.wikidata.org/entity/Q2319846,Sint-Janskerk,5.6875,50.848333
+69,http://www.wikidata.org/entity/Q1378652,Koepelkerk,4.880272222,52.362466666
+70,http://www.wikidata.org/entity/Q2179346,Paaskerk,5.282258,52.211419
+71,http://www.wikidata.org/entity/Q2024749,Wilminktheater en Muziekcentrum Enschede,6.89555,52.222389
+72,http://www.wikidata.org/entity/Q2360526,Pieterskerk,4.487778,52.1575
+73,http://www.wikidata.org/entity/Q17415889,Lutherse kerk,5.691436,50.847278
+74,http://www.wikidata.org/entity/Q456130,Jacobikerk,5.115278,52.095
+75,http://www.wikidata.org/entity/Q7476534,Posthoornkerk,4.890278,52.381111
+76,http://www.wikidata.org/entity/Q2522863,Leeuwenbergh Gasthuis,5.12759,52.08784
+77,http://www.wikidata.org/entity/Q17441209,Sint-Augustinuskerk,5.759583,50.948369
+78,http://www.wikidata.org/entity/Q1419675,Domtoren,5.12141,52.09061
+79,http://www.wikidata.org/entity/Q848290,Nieuwe Kerk,4.62972222,52.37722222
+80,http://www.wikidata.org/entity/Q1766591,Engelse Hervormde Kerk,4.89,52.369167
+81,http://www.wikidata.org/entity/Q594456,Fontys Hogeschool voor de Kunsten,5.0843365,51.5537592
+82,http://www.wikidata.org/entity/Q60221269,Onze-Lieve-Vrouw ten Hemelopnemingkerk,4.574944,52.321247
+83,http://www.wikidata.org/entity/Q1774864,Schouwburg,5.08314,51.55422
+84,http://www.wikidata.org/entity/Q118397988,Doopsgezinde kerk,4.82167,52.44222
+85,http://www.wikidata.org/entity/Q2275186,"Heilig Hartkerk, Vinkeveen",4.93409,52.21508
+86,http://www.wikidata.org/entity/Q2315000,Pauluskerk,5.291944,52.211389
+87,http://www.wikidata.org/entity/Q253935,Sint-Matthiaskerk,5.690278,50.852778
+88,http://www.wikidata.org/entity/Q17379482,RASA,5.11778,52.09444
+89,http://www.wikidata.org/entity/Q2675099,Muziekgebouw aan 't IJ,4.91306,52.37833
+90,http://www.wikidata.org/entity/Q3368242,Theater Kerkrade,6.062408,50.866111
+91,http://www.wikidata.org/entity/Q1689911,Theater Amsterdam,4.87789,52.3971
+92,http://www.wikidata.org/entity/Q1896136,Het Muziektheater,4.901335,52.367516
+93,http://www.wikidata.org/entity/Q612065,Singer Laren,5.22222,52.25944
+94,http://www.wikidata.org/entity/Q1905634,Waalse kerk,4.30778,52.08056
+95,http://www.wikidata.org/entity/Q2301723,Rotterdam Ahoy,4.488056,51.882778
+96,http://www.wikidata.org/entity/Q43722503,Sint-Servaasbasiliek,5.6872,50.848817
+97,http://www.wikidata.org/entity/Q1242547,Lutherse Kerk,5.122222,52.088333
+98,http://www.wikidata.org/entity/Q1867033,Sint-Augustinuskerk,5.116111,52.094167
+99,http://www.wikidata.org/entity/Q2183522,Lutherse Kerk,4.884814,52.087706
+100,http://www.wikidata.org/entity/Q1537972,Kloosterkerk,4.309444,52.081667
+101,http://www.wikidata.org/entity/Q2251904,Grote of Sint-Laurenskerk,4.74388889,52.6325
+102,http://www.wikidata.org/entity/Q678611,Cunerakerk,5.564167,51.956944
+103,http://www.wikidata.org/entity/Q2155935,Jeruzalemkerk,4.852222,52.371389
+104,http://www.wikidata.org/entity/Q2526574,Teatro Alla Scala,9.189166666,45.4675
+105,http://www.wikidata.org/entity/Q2540759,Rodahal,6.062513,50.867882
+106,http://www.wikidata.org/entity/Q432936,Nederlands Hervormde Kerk,5.00144,52.17179
+107,http://www.wikidata.org/entity/Q2485688,Nederlands Hervormde Kerk,4.474,51.78799
+108,http://www.wikidata.org/entity/Q3474444,Kerk van Onze Lieve Vrouw Presentatie,5.638725,51.510480555
+109,http://www.wikidata.org/entity/Q1943280,Bethlehemkerk,5.152694444,52.214391666
+110,http://www.wikidata.org/entity/Q2385952,Tilburg,5.0911,51.5572
+111,http://www.wikidata.org/entity/Q5297186,Nederlands Hervormde Kerk,4.14262,51.85437
+112,http://www.wikidata.org/entity/Q66712570,Oude Kerk,6.759722,52.300278
+113,http://www.wikidata.org/entity/Q66741968,Lutherse kerk,4.309717,52.075047
+114,http://www.wikidata.org/entity/Q1682982,H.H. Jacobus- en Augustinuskerk,4.305888,52.079516
+115,http://www.wikidata.org/entity/Q17126429,Gasthuiskerk,6.135739,52.015519
+116,http://www.wikidata.org/entity/Q17404499,Sint-Pieterskathedraal van Poitiers,0.3493,46.5805
+117,http://www.wikidata.org/entity/Q1811227,Grote of Sint-Nicolaaskerk,5.836556,52.448481
+118,http://www.wikidata.org/entity/Q1894167,Sint-Gertrudiskerk,5.11751,52.07593
+119,http://www.wikidata.org/entity/Q2163339,Opstandingskerk,5.813041666,53.195947222
+120,http://www.wikidata.org/entity/Q2189063,Oostkerk,3.62056,51.50278
+121,http://www.wikidata.org/entity/Q613854,Onze-Lieve-Vrouwekerk,5.64828,51.47891
+122,http://www.wikidata.org/entity/Q14345322,Waalse kerk,5.692088888,50.84595
+123,http://www.wikidata.org/entity/Q1435900,Singelkerk,4.88832,52.36745
+124,http://www.wikidata.org/entity/Q17441222,Sint-Vituskerk,5.179167,52.221944
+125,http://www.wikidata.org/entity/Q1950345,Sint-Victorkerk,5.67717,51.7897
+126,http://www.wikidata.org/entity/Q2047732,Paaskerk,4.86083,52.2925
+127,http://www.wikidata.org/entity/Q2211097,Remonstrantse kerk,6.567639,53.213594
+128,http://www.wikidata.org/entity/Q2580736,Kruiskerk,6.001944,53.196111
+129,http://www.wikidata.org/entity/Q2676900,Sint-Lambertuskerk,5.713319444,51.380552777
+130,http://www.wikidata.org/entity/Q31750987,Pauluskerk,4.47222,51.91972
+131,http://www.wikidata.org/entity/Q4365350,Grote of Sint-Nicolaaskerk,5.032683,52.456744
+132,http://www.wikidata.org/entity/Q7476474,Koepelkerk,4.437864,51.691958
+133,http://www.wikidata.org/entity/Q7477910,Magnuskerk,6.6978,53.043028
+134,http://www.wikidata.org/entity/Q1146466,De Brakke Grond,4.89413,52.37101
+135,http://www.wikidata.org/entity/Q17446450,"Hervormde kerk ""Emerentia""",5.21571,52.66792
+136,http://www.wikidata.org/entity/Q18813235,,,
+137,http://www.wikidata.org/entity/Q2245047,Buitensociëteit Zwolle,6.08948,52.50671
+138,http://www.wikidata.org/entity/Q2284610,Parkkerk,5.7881,53.190702777
+139,http://www.wikidata.org/entity/Q2387959,Stadsgehoorzaal Leiden,4.48889,52.15972
+140,http://www.wikidata.org/entity/Q2781104,Parktheater Eindhoven,5.48472,51.42889
+141,http://www.wikidata.org/entity/Q3945666,Sint-Martinuskerk,4.26736,51.52903
+142,http://www.wikidata.org/entity/Q17439314,Sint-Nicolaaskerk,6.858847,53.321664
+143,http://www.wikidata.org/entity/Q17447033,Petruskerk,4.883458,52.085925
+144,http://www.wikidata.org/entity/Q1951269,Treslong,4.58278,52.29806
+145,http://www.wikidata.org/entity/Q228627,Nieuwe Kerk,4.360194,52.012139
+146,http://www.wikidata.org/entity/Q2391255,Oude Kerk,4.355278,52.0125
+147,http://www.wikidata.org/entity/Q2581228,Theater Heerlen,5.972706,50.886619
+148,http://www.wikidata.org/entity/Q2655732,Grote of Maria Magdalenakerk,3.890278,51.503056
+149,http://www.wikidata.org/entity/Q56378192,Maranathakerk,5.054883333,51.561508333
+150,http://www.wikidata.org/entity/Q14852958,Noorderkerk,5.05374,52.643329
+151,http://www.wikidata.org/entity/Q16760956,Grote of Sint-Bonifaciuskerk,5.103611111,52.773055555
+152,http://www.wikidata.org/entity/Q17439345,De Boom,4.85075,52.383194444
+153,http://www.wikidata.org/entity/Q1856005,Nederlands hervormde kerk,5.89801,52.44765
+154,http://www.wikidata.org/entity/Q1945446,Grote of Sint-Maartenskerk,5.25221,51.812051
+155,http://www.wikidata.org/entity/Q2062007,Sint-Agathakerk,5.934808,50.825381
+156,http://www.wikidata.org/entity/Q2087125,Noorderkerk,4.8863,52.37954
+157,http://www.wikidata.org/entity/Q2272913,Opstandingskerk,5.085547222,52.114638888
+158,http://www.wikidata.org/entity/Q2278837,Sint-Ludgeruskerk,7.07201,52.438
+159,http://www.wikidata.org/entity/Q2289609,TivoliVredenburg,5.11333,52.0922
+160,http://www.wikidata.org/entity/Q2471093,Sint-Martinuskerk,5.698056,50.850556
+161,http://www.wikidata.org/entity/Q3539804,Muziekgebouw Frits Philips Eindhoven,5.479722,51.438611
+162,http://www.wikidata.org/entity/Q5901,Grote of Sint-Gudulakerk,6.416017,52.161528
+163,http://www.wikidata.org/entity/Q7478071,Hervormde Kerk op het Stift,6.84305,52.35568
+164,http://www.wikidata.org/entity/Q7478192,Grote Kerk,6.895556,52.220556
+165,http://www.wikidata.org/entity/Q1063209,Concertgebouw de Vereeniging,5.86083333,51.84138889
+166,http://www.wikidata.org/entity/Q12013373,Janskerk,5.121944,52.093333
+167,http://www.wikidata.org/entity/Q1481233,Martinikerk,5.544722,53.186667
+168,http://www.wikidata.org/entity/Q15910241,Sint-Bonifatiuskerk,5.8025,53.204167
+169,http://www.wikidata.org/entity/Q16466096,Schouwburg Deventer,,
+170,http://www.wikidata.org/entity/Q17447887,Westzijderkerk,4.818833333,52.444555555
+171,http://www.wikidata.org/entity/Q17594620,Doopsgezinde Kerk,5.446428,52.981708
+172,http://www.wikidata.org/entity/Q17611346,Leijpark,,
+173,http://www.wikidata.org/entity/Q2024858,Nederlands Hervormde Kerk,5.02309,52.20913
+174,http://www.wikidata.org/entity/Q2124264,Studio BFO,,
+175,http://www.wikidata.org/entity/Q2171982,Sint-Antonius Abtkerk,5.98807,51.93051
+176,http://www.wikidata.org/entity/Q2268131,Nieuwe Kerk,5.663056,52.036389
+177,http://www.wikidata.org/entity/Q2372875,Sint-Franciscuskerk,5.712191666,51.258688888
+178,http://www.wikidata.org/entity/Q2433564,Kerk van Laren,6.3663,52.192494
+179,http://www.wikidata.org/entity/Q2521697,Sint-Lambertuskerk,4.513889,51.92
+180,http://www.wikidata.org/entity/Q2547401,"Heilig Hartkerk, kerkgebouw",5.03986,52.14008
+181,http://www.wikidata.org/entity/Q2556442,Grote of Martinikerk,6.133889,52.014444
+182,http://www.wikidata.org/entity/Q2605326,Sint-Lambertuskerk,5.656111,51.478333
+183,http://www.wikidata.org/entity/Q2678488,Sint-Martinuskerk,5.739667,50.927758
+184,http://www.wikidata.org/entity/Q27895225,Pauluskerk,5.08217,51.5553
+185,http://www.wikidata.org/entity/Q2802273,Sint-Catharinakerk,5.138311,51.733058
+186,http://www.wikidata.org/entity/Q2987856,Sint-Martinuskerk,5.729925,50.812231
+187,http://www.wikidata.org/entity/Q3023322,Sint-Lambertuskerk,4.387558,51.521594
+188,http://www.wikidata.org/entity/Q3101611,Sint-Annakerk,5.669311111,50.851638888
+189,http://www.wikidata.org/entity/Q435741,Witte Kerk,4.321442,51.587797
+190,http://www.wikidata.org/entity/Q5364180,Sint-Lambertuskerk,5.80491,51.1633
+191,http://www.wikidata.org/entity/Q60504314,Sint-Lambertuskerk,5.745408333,51.743794444
+192,http://www.wikidata.org/entity/Q11721709,Vredekerk,5.166667,52.273333
+193,http://www.wikidata.org/entity/Q119572828,Hervormde kerk,4.946586,51.688111
+194,http://www.wikidata.org/entity/Q12013218,Maranathakerk,4.905305555,52.342388888
+195,http://www.wikidata.org/entity/Q15872871,Oude Kerk,5.553381,52.025936
+196,http://www.wikidata.org/entity/Q15873074,Grote Kerk,4.97313,51.82955
+197,http://www.wikidata.org/entity/Q15874918,Onze-Lieve-Vrouwetoren,5.3872,52.15517
+198,http://www.wikidata.org/entity/Q15880439,Église Saint-Sulpice,2.334722,48.851111
+199,http://www.wikidata.org/entity/Q16760827,Sint-Genovevakerk met begraafplaats,5.505911111,51.513497222
+200,http://www.wikidata.org/entity/Q17190759,Grote of Sint-Jacobskerk,3.574375,51.442694
+201,http://www.wikidata.org/entity/Q1728591,Stadsgehoorzaal Vlaardingen,4.34639,51.90944
+202,http://www.wikidata.org/entity/Q17343971,Stadsschouwburg Haarlem,4.62587,52.37788
+203,http://www.wikidata.org/entity/Q17343996,Grote of Lebuinuskerk,6.154722,52.251667
+204,http://www.wikidata.org/entity/Q17402074,hervormde kerk van 's-Graveland,5.122267,52.241731
+205,http://www.wikidata.org/entity/Q17406687,Dorpskerk,4.390925,52.145311
+206,http://www.wikidata.org/entity/Q17436438,Sint-Agathakerk,4.553375,52.256989
+207,http://www.wikidata.org/entity/Q17437316,Lutherse kerk,5.90464,51.98228
+208,http://www.wikidata.org/entity/Q17438373,Nederlands Hervormde Kerk,4.67114,51.98663
+209,http://www.wikidata.org/entity/Q17449095,Sint-Gertrudiskerk,4.288056,51.494444
+210,http://www.wikidata.org/entity/Q17452643,Martinikerk,6.5688,53.2195086
+211,http://www.wikidata.org/entity/Q1863072,Sint-Walburgiskerk,6.1957,52.139586
+212,http://www.wikidata.org/entity/Q1905614,Lutherse Kerk,6.565278,53.215833
+213,http://www.wikidata.org/entity/Q1912806,Maranathakerk,4.27751,52.08397
+214,http://www.wikidata.org/entity/Q1925202,Stadsschouwburg Utrecht,5.12722,52.09306
+215,http://www.wikidata.org/entity/Q1948561,Waalse kerk,4.77861,51.58972
+216,http://www.wikidata.org/entity/Q1959489,Doopsgezinde Kerk,5.122222,52.086944
+217,http://www.wikidata.org/entity/Q2030014,Église Saint-Étienne (Mulhouse),7.336666666,47.743611111
+218,http://www.wikidata.org/entity/Q2088456,Nieuwe Kerk,3.6143,51.49957
+219,http://www.wikidata.org/entity/Q2141961,Stiftskirche Klosterneuburg,16.3258,48.3072
+220,http://www.wikidata.org/entity/Q2184893,Waalse kerk,4.354738,52.012257
+221,http://www.wikidata.org/entity/Q2214772,Waalse kerk,4.489084,52.159395
+222,http://www.wikidata.org/entity/Q2251585,Grote Vermaning,4.635,52.3797
+223,http://www.wikidata.org/entity/Q228629,Moers,6.619722222,51.459166666
+224,http://www.wikidata.org/entity/Q2317675,,,
+225,http://www.wikidata.org/entity/Q2318129,St. Antonius van Paduakerk,5.70722,51.8831
+226,http://www.wikidata.org/entity/Q2339092,Sint-Jacobus de Meerderekerk,5.368489,51.664408
+227,http://www.wikidata.org/entity/Q2348786,Nederlands Hervormde Kerk,5.08974,52.22832
+228,http://www.wikidata.org/entity/Q2578267,Filharmonia Narodowa,21.011202,52.234475
+229,http://www.wikidata.org/entity/Q2584803,Oosterkerk,5.06333333,52.63958333
+230,http://www.wikidata.org/entity/Q2599341,Hervormde Margarethakerk,6.84745,52.850919444
+231,http://www.wikidata.org/entity/Q2615646,Grote of Sint-Laurenskerk,4.485,51.921389
+232,http://www.wikidata.org/entity/Q2644598,Onze-Lieve-Vrouw-Geboortekerk,4.714275,52.527283
+233,http://www.wikidata.org/entity/Q2662866,Broederenkerk,6.15715,52.25447
+234,http://www.wikidata.org/entity/Q2772962,Sint-Luciakerk,5.651225,51.796972
+235,http://www.wikidata.org/entity/Q2800172,Sint-Franciscuskerk,4.873573,52.021733
+236,http://www.wikidata.org/entity/Q2855199,Augustijnenkerk,4.66944,51.81556
+237,http://www.wikidata.org/entity/Q30137625,Remonstrantse kerk met kosterswoning,4.67014,51.8107
+238,http://www.wikidata.org/entity/Q35099644,Dorpskerk Rheden,6.03782,52.00485
+239,http://www.wikidata.org/entity/Q5471,Koepelkerk,5.907419,51.982794
+240,http://www.wikidata.org/entity/Q7477193,Koninklijke Opera,3.72243,51.04994
+241,http://www.wikidata.org/entity/Q812019,Lutherse kerk,6.019569,50.770175
+242,http://www.wikidata.org/entity/Q825421,Nederlands hervormde kerk,6.12052,51.86091
+243,http://www.wikidata.org/entity/Q895965,Maria Reginakerk,5.317028,51.597158
+244,http://www.wikidata.org/entity/Q89812649,Christus Koningkerk,5.86714,50.98698
+245,http://www.wikidata.org/entity/Q922407,Arminiuskerk,4.47371,51.91494
+246,http://www.wikidata.org/entity/Q104684259,Heilig-Hartkerk,4.77638,51.57785
+247,http://www.wikidata.org/entity/Q114562562,Dominicuskerk,4.893333,52.376944
+248,http://www.wikidata.org/entity/Q11698038,Hervormde kerk en toren,6.97321,53.24385
+249,http://www.wikidata.org/entity/Q11717432,Pniëlkerk,5.08245,52.090719444
+250,http://www.wikidata.org/entity/Q11721635,Sint-Catharinakerk,5.479139,51.437022
+251,http://www.wikidata.org/entity/Q11721653,Zuiderkerk,4.899722,52.37
+252,http://www.wikidata.org/entity/Q11721754,Zuider Vermaning,4.77711,52.44058
+253,http://www.wikidata.org/entity/Q11721784,Grote of Sint-Stephanuskerk,6.089517,52.590475
+254,http://www.wikidata.org/entity/Q11721846,013,5.09305556,51.55861111
+255,http://www.wikidata.org/entity/Q1350750,Sint-Gilliskerk,3.22695,51.214798
+256,http://www.wikidata.org/entity/Q13648243,Dom van Oslo,10.746958333,59.912319444
+257,http://www.wikidata.org/entity/Q13725472,Nederlands hervormde kerk,6.147677777,52.171038888
+258,http://www.wikidata.org/entity/Q1431827,Schouwburg Hengelo,6.795217,52.262567
+259,http://www.wikidata.org/entity/Q14480507,Sint-Bertinuskerk,2.651008,51.043358
+260,http://www.wikidata.org/entity/Q14918240,Sint-Augustinuskerk,5.82457,50.96744
+261,http://www.wikidata.org/entity/Q1515818,Sint-Vituskerk,5.7575,53.262222
+262,http://www.wikidata.org/entity/Q15392162,Sint-Jansbasiliek,4.861111,51.645
+263,http://www.wikidata.org/entity/Q1624224,Stadstheater Arnhem,5.913525,51.980958
+264,http://www.wikidata.org/entity/Q1691028,Hervormde kerk,5.83979,52.78864
+265,http://www.wikidata.org/entity/Q170402,Noorderkerk,6.096667,53.11
+266,http://www.wikidata.org/entity/Q17339418,Oude of Martinikerk,4.364214,52.067961
+267,http://www.wikidata.org/entity/Q17341574,Lutherse Kerk,4.7772,51.58855
+268,http://www.wikidata.org/entity/Q17349243,Lutherse Kerk,4.49474,52.159
+269,http://www.wikidata.org/entity/Q17372713,Marekerk,4.490639,52.162047
+270,http://www.wikidata.org/entity/Q17403624,Bonbonnière,5.69189,50.84791
+271,http://www.wikidata.org/entity/Q17420045,Jazzpodium de Tor,6.89453,52.2194
+272,http://www.wikidata.org/entity/Q17438189,Ruïnekerk,4.700433333,52.669344444
+273,http://www.wikidata.org/entity/Q17445547,Nieuwe Kerk,3.915746595,51.65031104
+274,http://www.wikidata.org/entity/Q17446566,Stadstheater Zoetermeer,4.493983333,52.062166666
+275,http://www.wikidata.org/entity/Q17447905,Waalse kerk,5.796389,53.203056
+276,http://www.wikidata.org/entity/Q17448960,Immanuëlkerk,4.37508,52.005048
+277,http://www.wikidata.org/entity/Q17456738,Hartebrugkerk,4.49065,52.16066
+278,http://www.wikidata.org/entity/Q17456843,Sint-Martinuskerk,5.662222,53.030278
+279,http://www.wikidata.org/entity/Q17464396,Mariakapel,5.060397,52.641828
+280,http://www.wikidata.org/entity/Q17465294,De Nieuwe Doelen,4.97389,51.83167
+281,http://www.wikidata.org/entity/Q17465948,Sint-Walburgisbasiliek,5.913586,51.97905
+282,http://www.wikidata.org/entity/Q17468028,kerk van Weener,7.35465,53.1655
+283,http://www.wikidata.org/entity/Q17469730,St. Petri (Freiberg),13.3408,50.9165
+284,http://www.wikidata.org/entity/Q17598353,Andrieskerk,5.461492,51.998
+285,http://www.wikidata.org/entity/Q17599129,Vredeskerk,4.857139,51.645111
+286,http://www.wikidata.org/entity/Q17600437,H. Jozefkerk,5.66905,51.48206
+287,http://www.wikidata.org/entity/Q17603320,Sint-Vituskerk,5.251667,52.270556
+288,http://www.wikidata.org/entity/Q17611567,Agnietenkapel,4.89556,52.36944
+289,http://www.wikidata.org/entity/Q1801453,Museum Ons' Lieve Heer op Solder,4.899363,52.375076
+290,http://www.wikidata.org/entity/Q18088265,Opstandingskerk,5.405249,52.152222
+291,http://www.wikidata.org/entity/Q1824314,Onze-Lieve-Vrouw-van-Lourdeskerk,4.2884,51.487025
+292,http://www.wikidata.org/entity/Q18245,Gereformeerde kerk,5.206686,51.799747
+293,http://www.wikidata.org/entity/Q1830952,Sint-Lambertuskerk,5.334444,51.911389
+294,http://www.wikidata.org/entity/Q1856618,Goede Herderkerk,5.56087,51.4278
+295,http://www.wikidata.org/entity/Q1881411,,,
+296,http://www.wikidata.org/entity/Q18922939,Stadsschouwburg Groningen,6.57194,53.22056
+297,http://www.wikidata.org/entity/Q1906719,Onze-Lieve-Vrouwekathedraal,4.40025,51.220268
+298,http://www.wikidata.org/entity/Q1918123,"Nederlands Hervormde Kerk, Maartenskerk",5.34495,52.03317
+299,http://www.wikidata.org/entity/Q1951493,Sint-Pauluskerk,4.473,51.96077
+300,http://www.wikidata.org/entity/Q19520910,Bergkerk,5.368267,52.148492
+301,http://www.wikidata.org/entity/Q1974997,Grote of Sint-Maartenskerk,5.98363,52.34822
+302,http://www.wikidata.org/entity/Q19828256,Stadsgehoorzaal Kampen,5.914303,52.558433
+303,http://www.wikidata.org/entity/Q1984553,Wilhelminakerk,4.632894444,52.380411111
+304,http://www.wikidata.org/entity/Q2016763,"Nederlands Hervormde Kerk. Eenbeukige bakstenen kruiskerk met koor, uitgebouwde sacristie en toren",4.97881,52.19177
+305,http://www.wikidata.org/entity/Q2029199,Brigitta,6.423333,52.518611
+306,http://www.wikidata.org/entity/Q2032677,Grote Toren,4.77485,51.5891
+307,http://www.wikidata.org/entity/Q2068908,Desmet Studio's Amsterdam,4.909778,52.366975
+308,http://www.wikidata.org/entity/Q2079245,Konzerthaus Dortmund,7.466666666,51.516111111
+309,http://www.wikidata.org/entity/Q2096394,Sint-Petrus'-Bandenkerk,5.552069,51.349664
+310,http://www.wikidata.org/entity/Q21083875,Mariakerk,5.091339,51.587628
+311,http://www.wikidata.org/entity/Q2127620,Koepelkerk,6.393297,53.031308
+312,http://www.wikidata.org/entity/Q21280589,Sint-Pauluskerk,4.24954176,52.064341
+313,http://www.wikidata.org/entity/Q2134859,Schouwburg Amstelveen,4.858833333,52.302380555
+314,http://www.wikidata.org/entity/Q2166965,Sint-Martinuskerk,5.9365,51.15795
+315,http://www.wikidata.org/entity/Q2176782,Petruskerk,6.37444,53.35954
+316,http://www.wikidata.org/entity/Q2201105,kerk van Midwolda,7.010172,53.194219
+317,http://www.wikidata.org/entity/Q2207729,Grote of Sint-Stevenskerk,5.8625,51.847778
+318,http://www.wikidata.org/entity/Q2233931,Grote kerk,3.826858,51.337036
+319,http://www.wikidata.org/entity/Q2242094,Don Boscokerk,5.70895,50.841505555
+320,http://www.wikidata.org/entity/Q2262660,Burgwalkerk,5.914722,52.558333
+321,http://www.wikidata.org/entity/Q2277567,Sint-Lambertuskerk,6.060458,50.864933
+322,http://www.wikidata.org/entity/Q2303747,Kreuzkirche,13.739166666,51.048888888
+323,http://www.wikidata.org/entity/Q2324764,"Holy Trinity Church, Cambridge",0.1203,52.2059
+324,http://www.wikidata.org/entity/Q2327461,Hervormde Kerk,4.9918,51.82776
+325,http://www.wikidata.org/entity/Q24040502,Garnizoenskerk,5.65215,51.79662
+326,http://www.wikidata.org/entity/Q2437078,Sint-Vincentiuskerk,5.077222,52.496111
+327,http://www.wikidata.org/entity/Q2451613,Doopsgezinde kerk,5.796389,53.2
+328,http://www.wikidata.org/entity/Q2452190,Andrieskerk,5.541227777,51.475413888
+329,http://www.wikidata.org/entity/Q2455011,Gereformeerde kerk,6.8608,53.07758
+330,http://www.wikidata.org/entity/Q2477589,Singelkerk,4.602275,51.870672
+331,http://www.wikidata.org/entity/Q2514937,kerk van Eenrum,6.460572,53.364861
+332,http://www.wikidata.org/entity/Q2543099,Schouwburg Lochem,6.417533,52.160131
+333,http://www.wikidata.org/entity/Q2587884,Museum Speelklok,5.118899,52.090292
+334,http://www.wikidata.org/entity/Q2598455,kerk van Kantens,6.633889,53.365556
+335,http://www.wikidata.org/entity/Q2608480,kerk van Breede,6.537031,53.385403
+336,http://www.wikidata.org/entity/Q2613692,Grote Kerk,3.667222,51.546944
+337,http://www.wikidata.org/entity/Q2615467,Grote Kerk,6.666383,52.358422
+338,http://www.wikidata.org/entity/Q2628985,dorpskerk van Abcoude,4.974444,52.272222
+339,http://www.wikidata.org/entity/Q2643134,Sint-Willibrorduskerk,4.42155,51.850544
+340,http://www.wikidata.org/entity/Q2661764,Irenekerk,4.613561,51.885849
+341,http://www.wikidata.org/entity/Q27146911,Alte Oper,8.671944444,50.115833333
+342,http://www.wikidata.org/entity/Q2737367,abdijkerk van Aduard,6.46021,53.25644
+343,http://www.wikidata.org/entity/Q274519,Hervormde Sint-Victorkerk,5.629444,51.823056
+344,http://www.wikidata.org/entity/Q2746640,Michaëlskerk,5.01079,52.93145
+345,http://www.wikidata.org/entity/Q2790458,Koorkerk,3.615,51.499722
+346,http://www.wikidata.org/entity/Q27915824,hervormde kerk van Beekbergen,5.96452,52.15955
+347,http://www.wikidata.org/entity/Q2792214,Theater Frascati,,
+348,http://www.wikidata.org/entity/Q2862865,Gebouw voor Kunsten en Wetenschappen,4.321072,52.08035
+349,http://www.wikidata.org/entity/Q2863705,,,
+350,http://www.wikidata.org/entity/Q2882912,Paradox,,
+351,http://www.wikidata.org/entity/Q295844,Emmaüskerk,5.468055555,51.462222222
+352,http://www.wikidata.org/entity/Q301607,Titus Brandsma Gedachteniskerk,5.858889,51.840556
+353,http://www.wikidata.org/entity/Q303613,Grote Kerk,5.422083,53.173056
+354,http://www.wikidata.org/entity/Q3053057,Jacobskerk,6.720514,51.971992
+355,http://www.wikidata.org/entity/Q3100654,Kapitein Kok,,
+356,http://www.wikidata.org/entity/Q3102914,Salzburger Landestheater,13.0428,47.8028
+357,http://www.wikidata.org/entity/Q31751008,Noorderkerk,5.657192,53.032608
+358,http://www.wikidata.org/entity/Q31942732,Bimhuis,4.91333333,52.37805556
+359,http://www.wikidata.org/entity/Q3267988,Sint-Lambertuskerk,5.140992,51.610886
+360,http://www.wikidata.org/entity/Q3341754,Baptistenkerk,5.45904,51.4506
+361,http://www.wikidata.org/entity/Q35102857,Rode Hoed,4.887222,52.377222
+362,http://www.wikidata.org/entity/Q41799562,Oude Dorpskerk,5.202894,52.06845
+363,http://www.wikidata.org/entity/Q42307484,Zalen Schaaf,5.799152777,53.204116666
+364,http://www.wikidata.org/entity/Q43169197,Thomaskirche,12.372586,51.339292
+365,http://www.wikidata.org/entity/Q43177191,Nederlands hervormde kerk,4.10236,51.9151
+366,http://www.wikidata.org/entity/Q4356153,Sint-Jozefkerk,6.178175,51.360794
+367,http://www.wikidata.org/entity/Q4358691,Sint-Nicolaaskerk,4.901111,52.376528
+368,http://www.wikidata.org/entity/Q436079,Gumpendorf,16.3478,48.1914
+369,http://www.wikidata.org/entity/Q4723419,Theater aan het Vrijthof,5.68806,50.85
+370,http://www.wikidata.org/entity/Q47522596,Dorpskerk,4.42387,52.19624
+371,http://www.wikidata.org/entity/Q493160,Koninklijk Conservatorium Den Haag,4.317777777,52.077141666
+372,http://www.wikidata.org/entity/Q5135015,Nederlands Hervormde Kerk,4.7964,52.78665
+373,http://www.wikidata.org/entity/Q52160787,Betlehemkerk,5.66365,51.4883
+374,http://www.wikidata.org/entity/Q53336885,Doopsgezinde kerk,6.564547,53.219933
+375,http://www.wikidata.org/entity/Q5510927,Ontmoetingskerk,3.60263889,51.49119444
+376,http://www.wikidata.org/entity/Q55313568,Sint-Werenfriduskerk,5.158342,52.729583
+377,http://www.wikidata.org/entity/Q55495769,Hof te Zande,4.018681,51.36492
+378,http://www.wikidata.org/entity/Q57154000,Sint-Lambertuskerk,5.383333,51.896111
+379,http://www.wikidata.org/entity/Q5886471,Grote of Onze-Lieve-Vrouwekerk,4.775278,51.588889
+380,http://www.wikidata.org/entity/Q60303270,Sint-Servatiuskerk,5.606847,51.599958
+381,http://www.wikidata.org/entity/Q61741246,Kirchberg,12.36431,48.55376
+382,http://www.wikidata.org/entity/Q877873,Kruisherenkerk,5.68381,50.84873
